@@ -46,7 +46,15 @@ body
     font-size: 20px;
 }
 
-#post {
-    background: white;
+#post 
+{
     padding: 1em;
+}
+
+#footer
+{
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
 }
